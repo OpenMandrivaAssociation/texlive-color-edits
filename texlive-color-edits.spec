@@ -1,6 +1,6 @@
 Name:		texlive-color-edits
 Version:	56707
-Release:	1
+Release:	2
 Summary:	Colorful edits for multiple authors of a shared document
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/color-edits
