@@ -3,7 +3,7 @@ Version:	56707
 Release:	2
 Summary:	Colorful edits for multiple authors of a shared document
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/color-edits
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/color-edits
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/color-edits.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/color-edits.doc.r%{version}.tar.xz
